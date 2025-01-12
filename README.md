@@ -1,1 +1,4 @@
 # Credit-Card-Fraud-Detection
+Credit card fraud and defaults are issues that many businesses face when it comes to credit card transactions. Customer defaults, where payments are missed, have been a persistent challenge, leading to significant financial losses for businesses over the years. This is why it's crucial for businesses to learn from past credit card data, identifying patterns that can help prevent fraud and minimize future losses.
+
+The goal of this project is to explore one of the methods that can detect fraud in real-time by analyzing transaction details like the time, amount, merchant type, and whether a credit card chip was used. By cleaning, organizing, and processing this data, important trends and patterns that indicate fraud can be uncovered. With these insights, businesses can be better prepared and take early action to prevent potential losses before they happen.
